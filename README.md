@@ -1,3 +1,4 @@
 # Differential equation solving using matlab 
-### Solving linear equations
-
+## Solving linear equations
+### Commands to know 
+dsolve
